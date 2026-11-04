@@ -32,8 +32,16 @@ This question demonstrates the use of a JavaScript `for` loop and DOM manipulati
 
 ## Screenshots of Outputs
 
-### Question 1
-Screenshot of the initial message and the updated message.
+### Question 1: Interactive Text Changer
+
+**Before Clicking Button**
+
+![Q1 Before](screenshot/q1-before.png)
+
+**After Clicking Button**
+
+![Q1 After](screenshot/q1-after.png)
+
 
 ### Question 2
 Screenshots of number validation results.
