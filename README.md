@@ -68,5 +68,12 @@ This question demonstrates the use of a JavaScript `for` loop and DOM manipulati
 
 <img src="screenshot/q2-decimal.png" width="400">
 
-### Question 3
-Screenshot of the generated numbered list.
+### Question 3: Dynamic Number Generator
+
+**After Clicking Generate**
+
+<img src="screenshot/q3-generate.png" width="400">
+
+**After Clicking Generate Again (No Duplicates)**
+
+<img src="screenshot/q3-generate-noduplicate.png" width="400">
