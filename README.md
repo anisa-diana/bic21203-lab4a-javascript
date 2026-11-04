@@ -36,11 +36,11 @@ This question demonstrates the use of a JavaScript `for` loop and DOM manipulati
 
 **Before Clicking Button**
 
-![Q1 Before](screenshot/q1-before.png)
+<img src="screenshot/q1-before.png" width="400">
 
 **After Clicking Button**
 
-![Q1 After](screenshot/q1-after.png)
+<img src="screenshot/q1-after.png" width="400">
 
 
 ### Question 2
