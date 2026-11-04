@@ -42,9 +42,31 @@ This question demonstrates the use of a JavaScript `for` loop and DOM manipulati
 
 <img src="screenshot/q1-after.png" width="400">
 
+### Question 2: Smart Number Validator
 
-### Question 2
-Screenshots of number validation results.
+**Input: 5 (Lower than 10)**
+
+<img src="screenshot/q2-5.png" width="400">
+
+**Input: 10 (Equal to 10)**
+
+<img src="screenshot/q2-10.png" width="400">
+
+**Input: 15 (Higher than 10)**
+
+<img src="screenshot/q2-15.png" width="400">
+
+**Input: abc (Invalid Input)**
+
+<img src="screenshot/q2-abc.png" width="400">
+
+**Empty Input (Invalid Input)**
+
+<img src="screenshot/q2-empty.png" width="400">
+
+**Input: 10.5 (Decimal Number)**
+
+<img src="screenshot/q2-decimal.png" width="400">
 
 ### Question 3
 Screenshot of the generated numbered list.
